@@ -60,7 +60,7 @@ Examples:
 
 Environment Variables:
   ACEDATACLOUD_API_TOKEN              API token from AceDataCloud (required)
-  NANOBANANA_REQUEST_TIMEOUT     Request timeout in seconds (default: 180)
+  NANOBANANA_REQUEST_TIMEOUT     Request timeout in seconds (default: 1800)
   LOG_LEVEL                      Logging level (default: INFO)
         """,
     )

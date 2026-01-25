@@ -170,7 +170,7 @@ background. Serene and masterful mood.
 |----------|-------------|---------|
 | `ACEDATACLOUD_API_TOKEN` | API token from AceDataCloud | **Required** |
 | `ACEDATACLOUD_API_BASE_URL` | API base URL | `https://api.acedata.cloud` |
-| `NANOBANANA_REQUEST_TIMEOUT` | Request timeout in seconds | `180` |
+| `NANOBANANA_REQUEST_TIMEOUT` | Request timeout in seconds | `1800` |
 | `LOG_LEVEL` | Logging level | `INFO` |
 
 ### Command Line Options

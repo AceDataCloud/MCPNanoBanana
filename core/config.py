@@ -23,7 +23,7 @@ class Settings:
 
     # Request Configuration
     request_timeout: float = field(
-        default_factory=lambda: float(os.getenv("NANOBANANA_REQUEST_TIMEOUT", "180"))
+        default_factory=lambda: float(os.getenv("NANOBANANA_REQUEST_TIMEOUT", "1800"))
     )
 
     # Server Configuration
